@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">Location</string>
+    <string name="updated_at">updated at</string>
+    <string name="clear_sky">clear sky</string>
+    <string name="_27_c">27°C</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="cloud">Cloud</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv_index">UV Index</string>
+    <string name="select">Select\n</string>
+    <string name="location_prompt">Select your location</string>
+
+</resources>
